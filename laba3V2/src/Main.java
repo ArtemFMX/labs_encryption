@@ -40,11 +40,11 @@ public class Main {
         client.setServer(server);
         client2.setServer(server);
 
-        client2.register("ro1ds", "tyGovno", server);
+        client2.register("ro1ds", "parol", server);
 
         client.register("bob", "1234", server);
         client.authorization("bob", "1234");
-        client2.authorization("ro1ds", "tyGovno");
+        client2.authorization("ro1ds", "parol");
 
     }
 }
