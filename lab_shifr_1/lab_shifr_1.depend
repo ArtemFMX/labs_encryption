@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1568635464 source:d:\labs_stas\lab_shifr_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
